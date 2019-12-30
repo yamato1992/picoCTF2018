@@ -30,7 +30,7 @@ Question 2.
 
 
 3. execute below python file, return 3 as the answer.
-```count_dst_ip.py
+```
 8ma10$ python count_dst_ip.py 
 src ip address:246.69.53.233
 3 ip addresses were targeted by src_ip.
