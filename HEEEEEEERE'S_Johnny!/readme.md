@@ -1,5 +1,8 @@
 ## HEEEEEEERE'S_Johnny!
 
+Problem
+>Okay, so we found some important looking files on a linux computer. Maybe they can be used to get a password to the process. Connect with nc 2018shell.picoctf.com 40157. Files can be found here: passwd shadow.
+
 1. make passfile.
 ```
 8ma10$ unshadow passwd shadow > passfile
@@ -45,3 +48,5 @@ Username: root
 Password: password1
 picoCTF{J0hn_1$_R1pp3d_1b25af80}
 ```
+
+FLAG - `picoCTF{J0hn_1$_R1pp3d_1b25af80}`

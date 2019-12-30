@@ -1,5 +1,8 @@
 ## net cat
 
+Problem
+>Using netcat (nc) will be a necessity throughout your adventure. Can you connect to 2018shell.picoctf.com at port 37721 to get the flag?
+
 1. exec a below command.
 ```
 8ma10$ nc 2018shell.picoctf.com 37721

@@ -1,5 +1,8 @@
 ## Client side is still bad
 
+Problem
+>I forgot my password again, but this time there doesn't seem to be a reset, can you help me? http://2018shell.picoctf.com:8420 (link)
+
 1. show index.html
 ```
 function verify() {
@@ -33,3 +36,5 @@ else {
 ```
 picoCTF{client_is_bad_5e06ac}
 ```
+
+FLAG - `picoCTF{client_is_bad_5e06ac}`

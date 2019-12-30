@@ -1,5 +1,8 @@
 ## Inspect Me
 
+Problem
+>Inpect this code! http://2018shell.picoctf.com:56252 (link)
+
 1. visit a [website](http://2018shell.picoctf.com:56252/).
 
 2. inspect html, css, javascript files with inspect function of Google Chrome.
@@ -23,3 +26,5 @@
 ```
 picoCTF{ur_4_real_1nspect0r_g4dget_9dd3b33c}
 ```
+
+FLAG - `picoCTF{ur_4_real_1nspect0r_g4dget_9dd3b33c}`
